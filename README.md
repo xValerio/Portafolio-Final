@@ -1,20 +1,29 @@
-Proyecto Final: Base de Datos II
-Bienvenido al repositorio del Proyecto Final del curso Base de Datos II. Este repositorio contiene la documentación y los archivos correspondientes a las actividades realizadas durante el curso, así como el examen final.
+# Proyecto Final: Base de Datos II
 
-📁 Contenido del Repositorio:
+¡Bienvenido al repositorio del Proyecto Final del curso **Base de Datos II**! Este repositorio contiene toda la documentación y los archivos generados a lo largo del curso, así como el examen final que abarca los conocimientos adquiridos.
 
-  * Documentación sobre la Aplicación Web
-    Descripción detallada de la aplicación Tienda Online, su arquitectura, características y funcionalidades. Incluye diagramas, estructura de la base de datos, implementación con Jakarta EE y SQL Server, y scripts SQL para respaldo y restauración.
-  
-  * Examen Final
-    Respuestas y desarrollos realizados para el examen final del curso, con explicaciones sobre procedimientos almacenados, disparadores, vistas y configuraciones avanzadas de la base de datos.
+## 📁 Contenido del Repositorio
 
-🌐 Demo en Línea
-Puedes acceder a las Actividades de la Semana 16 y ver la documentación completa a través del siguiente enlace:
+- **Documentación de la Aplicación Web**  
+  Descripción detallada de la aplicación **Tienda Online**, incluyendo su arquitectura, características y funcionalidades principales. La documentación cubre:  
+  - Diagramas de arquitectura y de la base de datos  
+  - Implementación utilizando **Jakarta EE** y **SQL Server**  
+  - Scripts SQL para respaldo y restauración de la base de datos.
 
-https://xvalerio.github.io/Portafolio-Final/actividades/Semana16-actividades.html
+- **Examen Final**  
+  Respuestas y desarrollos correspondientes al examen final del curso, que incluyen explicaciones sobre procedimientos almacenados, disparadores, vistas, y configuraciones avanzadas de bases de datos.
 
-📝 Instrucciones
-Revisa los archivos para obtener una visión completa del trabajo realizado durante el curso.
-La documentación incluye tanto el diseño como la implementación de la base de datos y los aspectos técnicos de la aplicación.
-El examen final contiene soluciones detalladas sobre los ejercicios prácticos relacionados con la gestión de bases de datos.
+## 🌐 Demo en Línea
+
+Puedes ver las actividades de la **Semana 16** y la documentación completa a través del siguiente enlace:  
+[Actividades de la Semana 16](https://xvalerio.github.io/Portafolio-Final/actividades/Semana16-actividades.html)
+
+## 📝 Instrucciones
+
+1. Revisa los archivos del repositorio para obtener una visión completa del trabajo realizado durante el curso.
+2. La documentación abarca tanto el diseño como la implementación de la base de datos, y proporciona detalles técnicos sobre la aplicación.
+3. El examen final incluye soluciones detalladas para los ejercicios prácticos relacionados con la gestión de bases de datos.
+
+## 🙏 Agradecimientos
+
+Quiero expresar mi más sincero agradecimiento al **Ing. Raul Bejarano**, quien nos brindó varias oportunidades para entregar el proyecto y tambien desarrollar nuestras habilidades en la gestión de bases de datos. Su apoyo y orientación a lo largo del curso han sido fundamentales para culminar este proyecto con éxito. ¡Gracias por todo!
